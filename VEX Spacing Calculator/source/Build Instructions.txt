@@ -1,0 +1,7 @@
+Make a build copy of source dir
+
+run:
+cd PATH_TO_BUILD_DIR
+pyinstaller --windowed --icon=favicon.ico VEX_Spacing_Calculator.py
+
+Move images dir and favicon.ico to dist/VEX_Spacing_Calculator

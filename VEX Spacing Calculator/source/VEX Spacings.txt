@@ -1,0 +1,90 @@
+c-channel vertical: .159 outer, .209 inner
+c-channel horizontal: .159 outer
+
+angle: 0.113 outer, 0.205 inner
+
+u-channel vertical: 0.113 outer, 0.222 inner
+u-channel vertical: 0.222 outer
+
+bearing block: .107 from center
+
+rigid:
+standoffs: assorted
+nylon nut: 0.192
+keps nut: 0.141
+plate: 0.062
+
+hs shaft hardware:
+hs gear: 0.384
+hs bearing: 0.375
+hs sprocket: 0.525
+hs collar: 0.5
+hs spacers: assorted
+
+shaft hardware:
+bearing: 0.25
+hs gear w/ insert: 0.5
+normal gear: 0.375 (84t is 0.5)
+normal sprocket: 0.625
+hs sprocket w/ insert: 0.625
+clamping collar: 0.5
+set screw collar: 0.26
+4.6mm spacer: 0.187
+8mm spacer: 0.328
+washer: 0.032
+spacers: assorted
+
+custom spacer: adjustable
+
+
+1x1 angle:
+t: 0.06299213
+0: +0.23300787
+1: -0.296
+2: -0.296
+3: +0.23300787
+
+2x2 angle:
+t: 0.046
+0: +0.25 + 0.5
+1: -0.296
+2: -0.296
+3: +0.25 +0.5
+
+3x3 angle:
+t: 0.046
+0: +0.25 +0.5 +0.5
+1: -0.296
+2: -0.296
+3: +0.25 +0.5 +0.5
+
+u channel:
+t: 0.06299213
+0: -0.32874016
+1: -0.31299213
+2: -0.32874016
+3: +0.25 +0.5
+
+1x2x1 c channel:
+t: 0.062
+0: -0.25
+1: -0.3
+2: -0.25
+3: +0.238
+
+1x3x1 c channel:
+t: 0.06299213
+0: -0.25
+1: -0.3
+2: -0.25
+3: +0.23700787
+
+1x5x1 c channel:
+t: 0.062
+0: -0.25
+1: -0.3
+2: -0.25
+3: +0.238
+
+bearing block:
+0: -0.125
